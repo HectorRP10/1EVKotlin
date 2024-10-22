@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo del view -->
+    <solid android:color="#80FFFFFF" />
+    <!-- Bordes del view -->
+
+
+    <!-- Bordes redondeados -->
+    <corners         android:topLeftRadius="35dp"
+        android:topRightRadius="35dp"/> <!-- Ajusta el radio de los bordes redondeados -->
+</shape>
